@@ -7,9 +7,6 @@ import java.util.Scanner;
 
 public class TableCalculator {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         //new scanner object
         Scanner input= new Scanner(System.in);
